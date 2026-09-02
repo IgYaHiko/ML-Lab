@@ -1,9 +1,5 @@
 
----
 
-# Lab-1.md
-
-```markdown
 # Lab 1: NumPy Fundamentals
 
 ## 📌 Lab Information
